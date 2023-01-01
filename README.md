@@ -1,3 +1,10 @@
+### IMPORTANT
+> 2/01/2023: REPO IS READ ONLY SINCE NOW
+
+As for now this repo is read only sice the team of the site that was needed to make all this work contacted me ([issue #2](https://github.com/Bbalduzz/Nexploix/issues/2)) and changed a key feature in the new user authentication. I'm working on a new method but for now this script won't work. 
+
+
+
 # NEXPLOIX
 <div align="center">
   <img src="https://user-images.githubusercontent.com/81587335/209554919-aca22478-e1ea-4c75-b6ed-c015296888c9.png" width="200" hight="200"/>
